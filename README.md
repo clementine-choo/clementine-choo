@@ -1,4 +1,8 @@
-## Hi there 👋
+## Data Analyst and Physics graduate with CompTIA Data+ certification and experience across statistics, business intelligence, and
+data science within healthcare, logistics, and commercial analytics environments. Strong proficiency in Python, SQL, Power BI,
+Tableau, Excel, and AWS, with a proven ability to build automated data pipelines, develop dashboards, and deliver actionable
+insights that improve operational efficiency and decision-making. Experienced in working with cross-functional teams and
+communicating complex analytical findings to both technical and non-technical stakeholders.
 
 <!--
 **clementine-choo/clementine-choo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
