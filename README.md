@@ -7,14 +7,7 @@
 </p>
 <h2>About Me</h2>
 <p>
-I'm a data analyst with a BCS-accredited diploma, trained in the full data pipeline from raw extraction and cleaning through to statistical insight, machine learning, and stakeholder-ready visualisations. I care about doing analysis that's honest, reproducible, and actually useful.
-</p>
-<ul>
-    <li>Currently building my portfolio with real-world datasets</li>
-    <li>Comfortable across SQL, Python, Power BI, and Tableau</li>
-    <li>Committed to ethical, transparent data practice</li>
-    <li>Ask me about EDA, hypothesis testing, or dashboard design</li>
-</ul>
+Data Analyst and Physics graduate with CompTIA Data+ certification and experience across statistics, business intelligence, and data science within healthcare, logistics, and commercial analytics environments. Strong proficiency in Python, SQL, Power BI, Tableau, Excel, and AWS, with a proven ability to build automated data pipelines, develop dashboards, and deliver actionable insights that improve operational efficiency and decision-making. Experienced in working with cross-functional teams and communicating complex analytical findings to both technical and non-technical stakeholders.
 <h2>Tech Stack</h2>
 <h3>Languages & Querying</h3>
 <p align="left">
