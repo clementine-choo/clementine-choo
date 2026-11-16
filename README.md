@@ -87,20 +87,11 @@ Data Analyst and Physics graduate with CompTIA Data+ certification and experienc
   </thead>
   <tbody>
     <tr>
-      <td><strong>[Project Title 1]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>Prediction of Electoral Results using a Proportional Model</strong></td>
+      <td>This project predicts the electoral results of 2026 local elections in Greater Manchester by assuming a proportional swing across the city region. </td>
+      <td><a href="/gm-le26-proportional-model">Repo</a> 
     </tr>
-    <tr>
-      <td><strong>[Project Title 2]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
-    </tr>
-    <tr>
-      <td><strong>[Project Title 3]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
-    </tr>
+
   </tbody>
 </table>
 <h2>GitHub Stats</h2>
